@@ -1,0 +1,37 @@
+
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|La+Belle+Aurore);
+
+body {
+padding-top:20px;
+padding-bottom:40px;
+}
+
+.navbar .news {
+color:#ffffff;
+text-shadow:1px 1px 2px #000000;
+text-align:center;
+}
+
+footer {
+text-align:right;
+}
+
+.hero-unit {
+text-align:center;
+}
+.hero-unit {
+background-color:#ffffff;
+}
+.hero-unit h1 {
+font-family:'IM Fell DW Pica', serif;
+}
+.hero-unit h2 {
+font-family:'La Belle Aurore', cursive;
+line-height:40px;
+color:#e95464;
+}
+
+.btn-xlarge {
+font-size:20px;
+padding:16px 26px;
+}
