@@ -17,9 +17,9 @@ text-align:right;
 }
 
 .hero-unit {
+padding:50px;
+margin-bottom:10px;
 text-align:center;
-}
-.hero-unit {
 background-color:#ffffff;
 }
 .hero-unit h1 {
