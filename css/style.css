@@ -30,6 +30,9 @@ font-family:'La Belle Aurore', cursive;
 line-height:40px;
 color:#e95464;
 }
+.hero-unit p.about {
+margin:20px 0px;
+}
 
 .btn-xlarge {
 font-size:20px;
